@@ -13,7 +13,7 @@ git clone https://github.com/Lintee12/typescript-starter.git
 #### 2. Navigate into the project directory:
 
 ```bash
-cd project-name
+cd typescript-starter
 ```
 
 #### 3. Install dependencies:
