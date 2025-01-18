@@ -1,6 +1,7 @@
 {
   "name": "typescript-starter",
   "version": "1.0.0",
+  "main": "dist/index.js",
   "description": "Starter template for typescript node projects",
   "scripts": {
     "build": "tsc",
